@@ -1,7 +1,8 @@
 {
-    "repos": "https://github.com/sindresorhus/object-assign.git",
-    "version": "4.0.1",
-    "tag": "master",
     "name": "object-assign",
-    "main": "index.js"
+    "description": "ES6 Object.assign() ponyfill",
+    "repos": "https://github.com/sindresorhus/object-assign.git",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "3.0.0"
 }

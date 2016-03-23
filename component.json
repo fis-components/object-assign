@@ -1,0 +1,9 @@
+{
+    "name": "object-assign",
+    "description": "ES6 Object.assign() ponyfill",
+    "repos": "https://github.com/sindresorhus/object-assign",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "3.0.0",
+    "dependencies": {}
+}
